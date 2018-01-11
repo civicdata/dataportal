@@ -1,2 +1,2 @@
 # dataportal
-Data portal for Civic Data Alliance Projects
+Repository for Civic Data Alliance Projects & Data
